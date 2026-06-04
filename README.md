@@ -1,4 +1,5 @@
-# verilog-4bit-counter
+# VERILOG-4BIT-COUNTER 
+
 ## OVERVIEW 
 This project implements a 4-bit counter using Verilog HDL. The counter increments on every positive clock edge and the resets to zero when the resetn signal is asserted. 
 
