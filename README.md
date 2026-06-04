@@ -20,7 +20,7 @@ When reset = 1, the counter becomes 0000
 - Icarus verilog
 
 ## SIMULATION OUTPUT 
-![Simulation Output](screenshots/simulation-ouput2.png)
+![Simulation Output](screenshots/simulation-output2.png)
 
 ## LEARNING OUTCOMES
 - Understanding clocks
