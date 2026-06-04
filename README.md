@@ -21,7 +21,7 @@ When reset = 1, the counter becomes 0000
 ## SIMULATION OUTPUT 
 
 
-##LEARNING OUTCOMES
+## LEARNING OUTCOMES
 - Understanding clocks
 - Understanding reset
 - Sequential logic design 
